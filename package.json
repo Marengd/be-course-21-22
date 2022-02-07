@@ -1,0 +1,21 @@
+{
+  "name": "week_1",
+  "version": "1.0.0",
+  "description": "Huiswerk, week 1",
+  "main": "huiswerk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "be-course-21-22"
+  },
+  "keywords": [
+    "Backend"
+  ],
+  "author": "Danian Marengo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
